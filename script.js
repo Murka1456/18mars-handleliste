@@ -86,4 +86,4 @@ popButton.addEventListener("click", function (){
   const displayOutput = document.querySelector('#displayOutput');
   displayOutput.textContent = handleliste;
 }
-)
+);
